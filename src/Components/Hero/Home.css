@@ -66,8 +66,4 @@
         flex-direction: column;
         flex-direction: column-reverse;
     }
-    .hero .right_img {
-        width: 95%;
-        height: 54vh;
-    }
  }

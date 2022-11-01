@@ -6,8 +6,8 @@ const Footer = () => {
     <>
       <footer>
         <div className='container text-center top'>
-            <div className='img'>
-                <img src={Logo_Black} alt='' />
+            <div className='f_img'>
+                <img src={Logo_Black} alt='' className='center' />
             </div>
         </div>
       </footer>
